@@ -4,7 +4,7 @@
     "url": "https://florianbrand.de",
     "icon": "https://icons.duckduckgo.com/ip3/florianbrand.de.ico",
     "slug": "florianbrand-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "87.25%",
     "uptimeWeek": "93.27%",
@@ -16,6 +16,7 @@
     "timeMonth": 790,
     "timeYear": 828,
     "dailyMinutesDown": {
+      "2024-12-04": 0,
       "2024-12-03": 184,
       "2024-12-02": 83,
       "2024-12-01": 102,
